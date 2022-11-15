@@ -1,0 +1,44 @@
+_repo: Queer-little-people_69223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2022-10-24'
+identifiers:
+  gutenberg: '69223'
+  lccn: '2022656361'
+language: en
+pgterms:marc904: https://archive.org/details/queerlittlepeop00stow/page/n7/mode/2up
+pgterms:marc905: 20210826162926stowe
+pgterms:marc906: '1867'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: Fords, Howard, and Hulburt,1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The hen that hatched ducks -- The Nutcrackers of Nutcracker Lodge
+  -- The history of Tip-Top -- Miss Katy-Did and Miss Cricket -- Mother Magpie's mischief
+  -- The squirrels that live in a house -- Hum, the son of Buz -- Our country neighbors
+  -- Our dogs -- Dogs and cats -- Aunt Esther's rules -- Aunt Esther's stories --
+  Sir Walter Scott and his dogs -- Country neighbors again -- The diverting history
+  of little Whiskey.
+title: Queer little people
+url: http://www.gutenberg.org/ebooks/69223
