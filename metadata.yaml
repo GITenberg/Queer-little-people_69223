@@ -1,5 +1,8 @@
 _repo: Queer-little-people_69223
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69223-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69223#Queer-little-people
 gutenberg_issued: '2022-10-24'
 identifiers:
   gutenberg: '69223'
